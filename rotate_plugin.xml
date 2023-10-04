@@ -1,0 +1,7 @@
+<library path="lib/liblimited_angle_rotate_recovery">
+  <class name="customized_rotate_recovery/LimitedAngleRotateRecovery" type="customized_rotate_recovery::LimitedAngleRotateRecovery" base_class_type="nav_core::RecoveryBehavior">
+    <description>
+      A recovery behavior that performs a pre-set angle rotation to attempt to clear out space.
+    </description>
+  </class>
+</library>
